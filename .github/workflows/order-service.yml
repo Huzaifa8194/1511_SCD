@@ -1,5 +1,9 @@
 name: Order Service CI/CD
 
+
+# THIS CODE IS FROM https://docs.github.com/en/actions/use-cases-and-examples/publishing-packages/publishing-docker-images
+# IT IS NOT AI GENERATED
+
 on:
   push:
     branches: [ main ]
